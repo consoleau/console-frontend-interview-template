@@ -1,0 +1,32 @@
+{
+  "name": "console2-frontend-interview-template",
+  "version": "1.0.0",
+  "description": "Template for code interview, use this before interview to verify environment",
+  "main": "gruntfile.js",
+  "engines": {
+    "node": ">=6.1.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha src/**/*.spec.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:consoleau/console-frontend-interview-template.git"
+  },
+  "author": "Console",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "3.4.3",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "chai-deep-match": "^1.0.2",
+    "chai-dom": "^1.4.0",
+    "fs-extra": "^0.30.0",
+    "grunt": "^1.0.1",
+    "mocha": "^2.4.5",
+    "moment": "^2.13.0",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0"
+  },
+  "dependencies": {}
+}
