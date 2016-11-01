@@ -8,10 +8,10 @@ This repo consists of a trivial class and mocha test. The purpose of this module
 
 # Steps to Verify
 
-1. git clone git@github.com:consoleau/console-frontend-interview-template.git
-1. cd console2-frontend-interview-template
-1. npm install
-1. npm test
+1. `git clone git@github.com:consoleau/console-frontend-interview-template.git`
+1. `cd console2-frontend-interview-template`
+1. `npm install`
+1. `npm test`
 
 
     At this point you should see this output and know that your laptop can run our code challenge env:
